@@ -4,3 +4,5 @@ This script removes unneeded files and libraries, including log files and snaps.
 To run this script from anywhere, place it in your `/usr/local/bin directory`
 
 To list your partition sizes run `df -Th | sort`
+
+To put daily cleanup put a copy in /etc/cron.daily
